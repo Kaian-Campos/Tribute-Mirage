@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    font-family: 'Raleway';
+    background-color: #888;
+    padding-bottom: 700px;
+}
+.hdesc {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.hdesc h2 {
+    margin-top: 0px;
+    font-weight: 100;
+}
+.hdesc h1 {
+    margin-bottom: 10px;
+}
+.hbar {
+    display: flex;
+    align-items: center;
+    background-color: #AAA;
+    width: 200px;
+    height: 3px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.udesc {
+    margin-top: 10px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 18px;
+    text-align: center;
+}
+ul {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+a {
+    text-decoration: none;
+}
